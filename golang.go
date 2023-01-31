@@ -1,5 +1,5 @@
 package golang
 
-func doSomeCalc(a int) int {
+func DoSomeCalc(a int) int {
 	return a + 2
 }
